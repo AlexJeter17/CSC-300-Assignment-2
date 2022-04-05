@@ -8,7 +8,7 @@ is the concatenated String. You need to write your own methods for this assignme
 are allowed, except for using the Scanner and associated methods for reading input.
 Sample executions of program:
 
-
+```
 1. Enter two values: 123 456
 The sum is: 579
 
@@ -20,7 +20,7 @@ The sum is: abcdef
 
 4. Enter two values: 123.456.789 4.5.6
 The sum is: 123.456.7894.5.6
-
+```
 
 
 Here is a youtube video of me explaining the code:
